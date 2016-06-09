@@ -1,0 +1,5 @@
+C:\Users\Brandon\Desktop\CodeTest\CodeTest\bin\Debug\CodeTest.dll
+C:\Users\Brandon\Desktop\CodeTest\CodeTest\bin\Debug\CodeTest.pdb
+C:\Users\Brandon\Desktop\CodeTest\CodeTest\obj\Debug\CodeTest.csprojResolveAssemblyReference.cache
+C:\Users\Brandon\Desktop\CodeTest\CodeTest\obj\Debug\CodeTest.dll
+C:\Users\Brandon\Desktop\CodeTest\CodeTest\obj\Debug\CodeTest.pdb
